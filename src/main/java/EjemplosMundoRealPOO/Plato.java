@@ -5,8 +5,8 @@
 package EjemplosMundoRealPOO;
 
 /**
- *
- * @author User
+ *Clase indica un plato del menú del restaurante. 
+ *Consta con el nombre del plato y su precio.
  */
 public class Plato {
     private String nombre;

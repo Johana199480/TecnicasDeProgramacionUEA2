@@ -7,7 +7,9 @@ package EjemplosMundoRealPOO;
 import java.util.Scanner;
 
 /**
- * Clase que representa el restaurante y gestiona el menú y pedidos.
+ * Clase que representa el restaurante.
+ * Tiene la responsabilidad de enseñar el menú, recibir pedidos de clientes 
+ * y facilita la selección de los platos 
  */
 public class Restaurante {
     private Plato[] menu;

@@ -5,8 +5,8 @@
 package EjemplosMundoRealPOO;
 
 /**
- *
- * @author User
+ * Clase que define a un cliente del restaurante, incluyendo su nombre.
+ * Almacena el nombre del cliente que realizo el pedido 
  */
 public class Cliente {
     private String nombre;
